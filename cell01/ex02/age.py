@@ -1,2 +1,4 @@
-my_age = 42 + 21
-print(f"{my_age} years old.")
+age = 21
+number = 42
+my_age = number + age
+print(my_age)

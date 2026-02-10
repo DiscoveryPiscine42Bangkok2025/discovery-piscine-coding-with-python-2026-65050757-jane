@@ -1,2 +1,3 @@
 inp = input("Give me a word: ")
-print(inp.upper())
+print(isdigit(inp))
+print(type(inp))
