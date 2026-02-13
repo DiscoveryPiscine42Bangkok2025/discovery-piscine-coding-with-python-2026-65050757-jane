@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 year = [10,20,30]
 
 inp = int(input("Please tell me your age: "))
